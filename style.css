@@ -95,3 +95,54 @@ main{
     text-align: center;
     text-decoration: underline;
 }
+
+/* quality related style */
+.quality-area{
+    background-color: #f4e5e8;
+    padding: 30px;
+}
+
+.devide-area{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 20px 100px;
+}
+
+.text-para{
+    text-align: center;
+}
+
+.signup-section{
+    background-color: #f4e5e8;
+    margin: 100px 0;
+    padding: 20px;
+}
+
+.HOT-DEAL{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0 300px;
+}
+/* Instagram-section */
+.Instagram-section{
+    margin: 100px 0;
+}
+
+.instagram{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 200px;
+    gap: 20px;
+}
+
+.flower{
+    width: 250px;
+}
+
+.title{
+    font-size: 40px;
+    font-weight: 600;
+}
