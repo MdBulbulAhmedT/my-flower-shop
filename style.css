@@ -45,3 +45,53 @@ header{
 .banner-immage{
     width: 581px;
 }
+
+main{
+    margin: 0 200px;
+}
+
+/* fetured related style */
+.fetured-area{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.fetured-title{
+    font-size: 28px;
+    font-weight: 600;
+}
+
+
+.section-title{
+    text-align: center;
+    margin-bottom: 70px;
+}
+
+.flower-box{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.single-box-1{
+    background-color: #f4e5e8;
+    padding-top: 20px;
+    border-top-right-radius: 130px;
+    border-top-left-radius: 130px;
+}
+.single-box-2{
+    background-color: #b3edb5;
+    padding-top: 20px;
+    border-top-right-radius: 130px;
+    border-top-left-radius: 130px;
+}
+.single-box-3{
+    background-color: #f4e5e8;
+    padding-top: 20px;
+    border-top-right-radius: 130px;
+    border-top-left-radius: 130px;
+}
+
+.para{
+    text-align: center;
+    text-decoration: underline;
+}
