@@ -1,0 +1,47 @@
+/* banner related style */
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.btn-btn-primary{
+    background-color: #E55473;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 6px;
+    color: white;
+    font-size: 17px;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.btn-btn-primary:hover{
+    background-color: rgb(88, 125, 203);
+    color: black;
+    transition-duration: 0.5s;
+}
+
+header{
+    background-color: #f4e5e8;
+}
+
+.banner-section{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0 200px;
+}
+
+.banner-title{
+    font-size: 50px;
+    font-weight: 600;
+}
+
+.paragaph{
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.banner-immage{
+    width: 581px;
+}
