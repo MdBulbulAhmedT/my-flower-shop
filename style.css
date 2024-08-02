@@ -2,6 +2,7 @@
 body{
     margin: 0;
     padding: 0;
+    font-family: "Poppins", sans-serif;
 }
 
 .btn-btn-primary{
@@ -145,4 +146,32 @@ main{
 .title{
     font-size: 40px;
     font-weight: 600;
+}
+/* deal-section */
+.deal-area{
+    margin: 100px 0;
+}
+
+.deal-section{
+    margin: 0 200px;
+}
+
+.deal-image{
+    width: 1130px;
+}
+
+/* footer section */
+footer{
+    background-color: black;
+    color: white;
+    padding: 100px;
+}
+
+.footer-content{
+    text-align: center;
+}
+
+.footer-head{
+    font-size: 30px;
+    font-weight: 700;
 }
